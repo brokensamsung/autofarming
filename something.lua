@@ -1,3 +1,4 @@
+print("IF ITS NOT WORKING YOU REJOINED THE SAME SERVER")
 local TweenService = game:GetService("TweenService")
 local TeleportService = game:GetService("TeleportService")
 local player = game.Players.LocalPlayer

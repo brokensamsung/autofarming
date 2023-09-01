@@ -8,7 +8,7 @@ while true do
 
         if humanoidRootPart then
             humanoidRootPart.CFrame = CFrame.new(targetPosition)
-            print("Teleported to (32, 219, 142)")
+            print("Teleported to Win")
         else
             warn("HumanoidRootPart not found in character.")
         end
